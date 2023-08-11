@@ -4,6 +4,10 @@
 
 }
 
+body{
+    background-color: lightgray;
+}
+
 .header{
     background-color: blue;
     width: 100%;
@@ -23,7 +27,36 @@ h2{
     font-family: cursive;
 }
 
-div{
-    background-image:itachi/itachi.jpg;
+
+.img{
+    border-color: blue;
+    text-align: left;
+    padding-top: 250px;
+    padding-bottom: 300px;
+    background-image:url(itachi/itachi.jpg);
 }
 
+
+.content{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+h4{
+    border: 3px blue solid;
+    width: 7cm;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    bottom: 3cm;
+    font-size: large;
+    font-family: cursive;
+    color: blue;
+    background-color: lightgray;
+}
+
+
+.content{
+    padding-top: 50px;background-color: white;
+}
