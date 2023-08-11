@@ -24,7 +24,7 @@ h2{
     width: 5cm;
     height: 1cm;
     text-align: center;
-    font-family: cursive;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 
@@ -61,11 +61,10 @@ main{
 h4{
     border: 3px blue solid;
     width: 7cm;
-    padding-top: 40px;
-    padding-bottom: 40px;
-    bottom: 3cm;
+    padding-top: 10px;
+    padding-bottom: 10px;
     font-size: large;
-    font-family: cursive;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: blue;
     background-color: lightgray;
 }
